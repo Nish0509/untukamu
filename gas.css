@@ -1,0 +1,16 @@
+body {
+    background: #f5f5dc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    color: #ff69b4;
+    margin: 15px 0;
+}
+
+h4 {
+    text-align: justify;
+    color: #ffa6c9;
+    margin: 15px 0;
+}
